@@ -1,7 +1,18 @@
 html {
   box-sizing: border-box;
+  line-height: 1.5;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
+}
+
+main {
+  font-family: Georgia;
+}
+
+h1 {
+  font-size: 3rem;
+  text-align: center;
+  font-family: 'Sigmar One', cursive;
 }
